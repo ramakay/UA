@@ -6,6 +6,10 @@
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+# Sublime project
+.sublime-project
+.sublime-workspace
+
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 dist
