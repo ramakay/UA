@@ -10,3 +10,8 @@ This Repo focuses on Unit testing with Jest and a few other updates.
 
 + Use Jest instead of  Enzyme + Chai
 + Remove DB's and use without DB'
+
+# Start
+
++ `npm i`
++ `npm run test-jest`
