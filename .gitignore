@@ -7,8 +7,8 @@
 .grunt
 
 # Sublime project
-.sublime-project
-.sublime-workspace
+*.sublime-project
+*.sublime-workspace
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
