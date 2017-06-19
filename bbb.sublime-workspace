@@ -1,0 +1,1345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"componentDid",
+				"componentDidUpdate\t Life Cycle"
+			],
+			[
+				"CREATE_INSIGHT",
+				"CREATE_INSIGHT_SUCCESS"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"product",
+				"productController"
+			],
+			[
+				"cons",
+				"console.warn();"
+			],
+			[
+				"personalit",
+				"personalitySchema"
+			],
+			[
+				"personality",
+				"personalityInsightsResults"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"set syntax:javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"form",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"set syntax: javscript",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"set syntax:javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format ",
+				"Standard Format: Format current file"
+			],
+			[
+				"fo",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"materi",
+				"Material Theme: Activate theme"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"eslint form",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"esform",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"esfomr",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"format this",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"package control:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"format css",
+				"Format CSS: Expanded"
+			],
+			[
+				"package control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fomr",
+				"Format Code"
+			],
+			[
+				"package control :ins",
+				"Package Control: Install Package"
+			],
+			[
+				"esformat",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"package control:inst",
+				"Package Control: Install Package"
+			],
+			[
+				"standard",
+				"Standard Format: Format current file"
+			],
+			[
+				"format js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"es5",
+				"Snippet: Component Template (ES2015)"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"git:log",
+				"Git: Log Current File"
+			],
+			[
+				"standa",
+				"Standard Format: Toggle format on save"
+			],
+			[
+				"sub",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"esl",
+				"ESLint"
+			],
+			[
+				"e",
+				"ESLint"
+			],
+			[
+				"esli",
+				"ESLint"
+			],
+			[
+				"subl",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"emmet",
+				"Emmet: Update Image Size"
+			],
+			[
+				"stand",
+				"Standard Format: Toggle format on save"
+			],
+			[
+				"stnadard",
+				"Standard Format: Toggle format on save"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"escape",
+				"StringEncode: JSON Escape"
+			],
+			[
+				"encode",
+				"StringEncode: JSON Escape"
+			],
+			[
+				"new file",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"sublimerge",
+				"Sublimerge: Custom Comparison..."
+			],
+			[
+				"set syntax:babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"sublmier",
+				"Sublimerge"
+			],
+			[
+				"sublimerg",
+				"Sublimerge"
+			],
+			[
+				"merge",
+				"Sublimerge"
+			],
+			[
+				"package linte",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter:inst",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"package control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublimerge",
+			"packagecontrol",
+			"package control",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ramakay/Projects/bbb/node_modules/resolve/test/precedence/bbb"
+	],
+	"file_history":
+	[
+		"/Users/ramakay/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ramakay/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ramakay/Projects/mk-web/app/service/soastaUtil.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/rich-relevance/actions.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/recommended-products/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/home/actions.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/experience-page/actions.js",
+		"/Users/ramakay/Projects/mk-web/server/config/routes.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/cart/cart-fly-out.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/cart/actions.js",
+		"/Users/ramakay/Projects/mk-web/app/components/basic/rich-text-component/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/registry.js",
+		"/Users/ramakay/Projects/mk-web/server/controllers/components.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/home/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/look/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/server.jsx",
+		"/etc/hosts",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/navigation/nav-items/cart.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/product-tile/index.jsx",
+		"/Users/ramakay/Projects/mk-web/server/controllers/apiaggregator-endpoints.js",
+		"/Users/ramakay/Projects/mk-web/server/controllers/service-facade.js",
+		"/Users/ramakay/Projects/mk-web/package.json",
+		"/Users/ramakay/Projects/mk-web/app/client.jsx",
+		"/Users/ramakay/Desktop/headerFooterIntegration.js.txt",
+		"/Users/ramakay/Projects/mk-web/compiled/config/environments.js",
+		"/Users/ramakay/Projects/mk-web/app/template/department-landing-page/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/template/web-home-page/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/tagging/pages/pdp.js",
+		"/Users/ramakay/Projects/mk-web/app/service/serviceUtil.js",
+		"/Users/ramakay/Projects/mk-web/app/service/plpUtil.js",
+		"/Users/ramakay/Projects/mk-web/app/routes.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/sections/header/actions.js",
+		"/Users/ramakay/Projects/mk-web/app/service/scene7Util.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/index.jsx",
+		"/Users/ramakay/Projects/mk-web/server/config/environments.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/actions.js",
+		"/Users/ramakay/Projects/mk-web/app/components/basic/logo/index.jsx",
+		"/Users/ramakay/Projects/mk-web/server/util/blob-loader.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/components/gift-card/actions.js",
+		"/Users/ramakay/Library/Group Containers/3L68KQB4HG.group.com.readdle.smartemail/cache/messagesData/3/33735/MobileProductMediaView.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/navigation/nav-items/level-2-items.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/navigation/nav-items/level-1-items.jsx",
+		"/Users/ramakay/Projects/mk-web/compiled/util/blob-loader.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/search/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/seo-util.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/navigation/main-nav/index.jsx",
+		"/Users/ramakay/Projects/mk-web/compiled/config/vendor-config.js",
+		"/Users/ramakay/Projects/mk-web/app/template/web-medium-category-page/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/tagging/actions.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/navigation/nav-items/level-3-items.jsx",
+		"/Users/ramakay/Projects/mk-web/server/util/cookiesHandler.js",
+		"/Users/ramakay/Projects/mk-web/server/index.js",
+		"/Users/ramakay/Projects/mk-web/app/service/security/index.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/tagging/pages/experience.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/search/components/search-result-count/index.jsx",
+		"/Users/ramakay/.zshrc",
+		"/Users/ramakay/Projects/mk-web/app/components/basic/link-route/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/service/decorators/SanitizeComponents.js",
+		"/Users/ramakay/Projects/mk-web/app/components/sections/footer/index.jsx",
+		"/Users/ramakay/Projects/mk-web/compiled/util/cookiesHandler.js",
+		"/Users/ramakay/Projects/mk-web/app/components/sections/header/index.jsx",
+		"/Users/ramakay/Projects/mk-web/newrelic_agent.log",
+		"/Users/ramakay/Desktop/path.jsx",
+		"/Users/ramakay/Projects/mk-web/server/config/translationConfig.js",
+		"/Users/ramakay/Projects/mk-web/app/service/commonUtil.js",
+		"/Users/ramakay/Projects/mk-web/server/util/setRequestHeaders.js",
+		"/Users/ramakay/Projects/mk-web/app/App.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/basic/link/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/navigation/main-nav/styles/flyout.css",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/myaccount-flyout/wishlist-flyout.scss",
+		"/Users/ramakay/Projects/mk-web/app/components/sections/footer/styles.scss",
+		"/Users/ramakay/Projects/mk-web/app/pages/storeLocator/components/searchPanel/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/components/click-and-collect/store-list/styles.scss",
+		"/Users/ramakay/Projects/mk-web/app/store/configureStore.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/myaccount-flyout/login-account-popup.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/targeter/index.jsx",
+		"/Users/ramakay/Projects/mk-web/.eslintignore",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/components/click-and-collect/product-view/styles.scss",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/rich-relevance/rrConfigUtil.js",
+		"/Users/ramakay/Projects/mk-web/compiled/util/getSession.js",
+		"/Users/ramakay/Projects/mk-web/compiled/util/setRequestHeaders.js",
+		"/Users/ramakay/Projects/mk-web/compiled/config/appConfig.js",
+		"/Users/ramakay/Projects/mk-web/compiled/controllers/service-facade.js",
+		"/Users/ramakay/Projects/mk-web/compiled/config/routes.js",
+		"/Users/ramakay/Projects/mk-web/webpack/webpack.config.dev-client.js",
+		"/Users/ramakay/Projects/mk-web/app/middlewares/preRenderMiddleware.js",
+		"/Users/ramakay/Projects/mk-web/app/middlewares/promiseMiddleware.js",
+		"/Users/ramakay/Projects/mk-web/app/components/sections/header/reducer.js",
+		"/Users/ramakay/Projects/mk-web/app/service/atgUrlConfig.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/myaccount-flyout/actions.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/plp/components/result-panel/products-listing-panel.jsx",
+		"/Users/ramakay/Projects/mk-web/webpack/webpack.common.config.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/plp/components/result-panel/styles.scss",
+		"/Users/ramakay/Projects/mk-web/app/pages/plp/components/result-panel/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/plp/styles/main.scss",
+		"/Users/ramakay/Projects/mk-web/app/pages/shop/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/storeLocator/components/storeMap/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/components/gift-card/validation.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/search/components/type-ahead-search/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/components/gift-card/denomination-selector.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/search/actions.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/search/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/navigation/nav-items/search-mobile.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/plp/actions.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/plp/components/facet-panel/styles.scss",
+		"/Users/ramakay/Projects/mk-web/app/pages/plp/components/facet-panel/facet-color-selector.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/plp/components/facet-panel/facet-section.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/plp/components/facet-panel/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/search/reducer.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/tagging/pages/search.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/preloader/action.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/country-selector-panel/country-list.jsx",
+		"/Users/ramakay/.npmrc",
+		"/Users/ramakay/Projects/mk-web/.npmrc",
+		"/Users/ramakay/Projects/mk-web/npm-debug.log",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/search/mobile.jsx",
+		"/Users/ramakay/Projects/mk-web/server/config/appConfig.js",
+		"/Users/ramakay/Projects/mk-web/server/util/getSession.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/components/gift-card/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/components/gift-card/email-form.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/basic/form-control/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/components/HOC/sanitize.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/pdp/components/pdp-gallery/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/tests/components/product-desc/mock-data.js",
+		"/Users/ramakay/Projects/mk-web/app/components/compound/myaccount-flyout/create-account-popup.jsx",
+		"/Users/ramakay/Projects/mk-web/app/pages/gift-card-balance/index.jsx",
+		"/Users/ramakay/Projects/mk-web/app/reducers/index.js",
+		"/Users/ramakay/Projects/mk-web/app/pages/home/body.jsx"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 173.0,
+		"where_history":
+		[
+			"/Users/ramakay/Projects/mk-web",
+			"/Users/ramakay/Projects/cognitivemerchandiser/cognitivemerchandiser",
+			"/Users/ramakay/Projects/cognitivemerchandiser/cognitivemerchandiser,.jsx",
+			"/Users/ramakay/Projects/cognitivemerchandiser/cognitivemerchandiser",
+			"<open folders>",
+			"/Users/ramakay/Projects/everest-club-monaco",
+			"/Users/ramakay/Projects/everest-club-monaco/clubmonaco",
+			"/Users/ramakay/Projects/CM-Prototype",
+			"/Users/ramakay/Projects/everest/cm-experience",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"_99",
+			"mk-giftcard-page",
+			"wpLanding",
+			"wpGiftcards",
+			"gift-card-lp",
+			"boomerang",
+			"boomerang not working",
+			"typeof window",
+			"componentd",
+			"openInNewTab",
+			"bvrrcontainer",
+			"akumar",
+			"getMiniCartData",
+			"you may also like",
+			"GET_RECOMMENDATION_JSON_SUCCESS_RVP",
+			"dataRecommendedRVP",
+			"recommendedDataRVP",
+			"headermessage",
+			"recommended-products",
+			"recommend-products",
+			"type",
+			"recommendation-header small-12",
+			"you might",
+			"result",
+			"swat",
+			"fetchHomePageData",
+			"getHomePageTemplate",
+			"getHomePageData",
+			"/content",
+			"content",
+			"homepage",
+			"DynamicComponentRegistry",
+			"service",
+			"ENV_SIT",
+			"compref",
+			"rendercontent",
+			"html",
+			"product not found",
+			"availability",
+			"logo_mk",
+			"188.97",
+			"datanextpage",
+			"soasta",
+			"components.",
+			"serviceFacade",
+			"serviceutil.",
+			"Sign In",
+			"search.sort",
+			"special",
+			"R-cat2890007\\",
+			"R-cat2890007",
+			"NON_DEFAULT_LOCALE",
+			"R_CAT",
+			"router",
+			"skuSetImage",
+			"scene7imgURL",
+			"for",
+			"gallery",
+			"for",
+			"for of",
+			"for (",
+			"for",
+			"for *",
+			"for (var",
+			"fetchMiniCartData",
+			"fetchmini",
+			"minicart",
+			"heartbeat",
+			"stopheartbeat",
+			"gallery",
+			"renderInlineZoom",
+			"RR",
+			"rr",
+			"debounce",
+			"translateZ(0)",
+			"slick",
+			"setItem",
+			"setitem",
+			"resize",
+			".resize",
+			"s7Comp.resize",
+			"renderinlin",
+			"renderinline",
+			"classname=\"main-na",
+			"classname",
+			"class=\"main-na",
+			"aria-hidden=\"true\"",
+			"og:url",
+			"this.",
+			"search-link",
+			"endecaRichRelevanceProducts.jsp",
+			"/rrRecommendations/endecaRichRelevanceProducts.jsp",
+			"onLoadSetupDone",
+			"pdp",
+			"pdp setup",
+			"inside pdp",
+			"onLoadSetupDone",
+			"onloadsetup",
+			"pathname",
+			"path",
+			"sendcustomevent",
+			"history.listen",
+			"onloadsetupdone",
+			"onloadsetupdonel",
+			"onloadsetupdone",
+			"onloadsetup",
+			"plp onloadsetup",
+			"alias",
+			"level-2-items",
+			"url",
+			".url",
+			"content",
+			"content:",
+			"\"#\"",
+			"level-3-items",
+			"LinkRoute",
+			"match",
+			"sanitize",
+			"security",
+			"onupdate",
+			"match",
+			"mapAttributes",
+			"merchcategorylevel1",
+			".price",
+			"price",
+			"pdpprice",
+			"pdp-price"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"level2",
+			".attr(\"class\",\"pulse\")"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 25,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": null,
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1497532544.38
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tabs_extra_last_activated": 1497534211.12,
+							"tabs_extra_last_activated_sheet_index": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 228.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 153.0
+	},
+	"pinned_build_system": "",
+	"project": "bbb.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"look/ind",
+				"app/pages/look/index.jsx"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"apiag",
+				"server/controllers/apiaggregator-endpoints.js"
+			],
+			[
+				"actions",
+				"app/pages/home/actions.js"
+			],
+			[
+				"/pages/home/ac",
+				"app/pages/home/actions.js"
+			],
+			[
+				"experience/actions",
+				"app/pages/experience-page/actions.js"
+			],
+			[
+				"routes.",
+				"server/config/routes.js"
+			],
+			[
+				"routes.js",
+				"app/routes.jsx"
+			],
+			[
+				"exper",
+				"server/controllers/experience.js"
+			],
+			[
+				"rich-text",
+				"app/components/basic/rich-text-component/index.jsx"
+			],
+			[
+				"components.j",
+				"server/controllers/components.js"
+			],
+			[
+				"index.jsx",
+				"app/pages/experience-page/index.jsx"
+			],
+			[
+				"homepage.js",
+				"app/template/web-home-page/index.jsx"
+			],
+			[
+				"registry",
+				"app/components/registry.js"
+			],
+			[
+				"web-home-",
+				"app/template/web-home-page/index.jsx"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"components/registry",
+				"app/components/registry.js"
+			],
+			[
+				"tagging/pdp",
+				"app/components/compound/tagging/pages/pdp.js"
+			],
+			[
+				"dlp/in",
+				"app/template/department-landing-page/index.jsx"
+			],
+			[
+				"hoempage/ind",
+				"app/template/web-home-page/index.jsx"
+			],
+			[
+				"pdp/act",
+				"app/pages/pdp/actions.js"
+			],
+			[
+				"compiled/env",
+				"compiled/config/environments.js"
+			],
+			[
+				"envi",
+				"server/config/environments.js"
+			],
+			[
+				"soas",
+				"app/service/soastaUtil.js"
+			],
+			[
+				"soasta",
+				"app/service/soastaUtil.js"
+			],
+			[
+				"cient.js",
+				"app/client.jsx"
+			],
+			[
+				"env",
+				"server/config/environments.js"
+			],
+			[
+				"blob",
+				"server/util/blob-loader.js"
+			],
+			[
+				"clien",
+				"app/client.jsx"
+			],
+			[
+				"service-f",
+				"server/controllers/service-facade.js"
+			],
+			[
+				"routes.j",
+				"server/config/routes.js"
+			],
+			[
+				"servic",
+				"app/service/serviceUtil.js"
+			],
+			[
+				"serviceu",
+				"app/service/serviceUtil.js"
+			],
+			[
+				"routes",
+				"app/routes.jsx"
+			],
+			[
+				"server",
+				"app/server.jsx"
+			],
+			[
+				"scene7",
+				"app/service/scene7Util.js"
+			],
+			[
+				"header/act",
+				"app/components/sections/header/actions.js"
+			],
+			[
+				"pdp/ind",
+				"app/pages/pdp/index.jsx"
+			],
+			[
+				"gallery/ind",
+				"app/pages/pdp/components/pdp-gallery/index.jsx"
+			],
+			[
+				"environ",
+				"server/config/environments.js"
+			],
+			[
+				"compound/search/ind",
+				"app/components/compound/search/index.jsx"
+			],
+			[
+				"search/compound/",
+				"app/pages/search/components/search-result-count/index.jsx"
+			],
+			[
+				"pdp/in",
+				"app/pages/pdp/index.jsx"
+			],
+			[
+				"package.",
+				"package.json"
+			],
+			[
+				"vendorc",
+				"compiled/config/vendor-config.js"
+			],
+			[
+				"blob-l",
+				"compiled/util/blob-loader.js"
+			],
+			[
+				"level-3",
+				"app/components/compound/navigation/nav-items/level-3-items.jsx"
+			],
+			[
+				"leve-",
+				"app/components/compound/navigation/nav-items/level-3-items.jsx"
+			],
+			[
+				"level3",
+				"app/components/compound/navigation/nav-items/level-3-items.jsx"
+			],
+			[
+				"components/basic/link-rout",
+				"app/components/basic/link-route/index.jsx"
+			],
+			[
+				"cookiehand",
+				"server/util/cookiesHandler.js"
+			],
+			[
+				"cookie",
+				"server/util/cookiesHandler.js"
+			],
+			[
+				"route",
+				"server/config/routes.js"
+			],
+			[
+				"service",
+				"app/service/serviceUtil.js"
+			],
+			[
+				"index.js",
+				"server/index.js"
+			],
+			[
+				"client.js",
+				"app/client.jsx"
+			],
+			[
+				"sanitize",
+				"app/service/decorators/SanitizeComponents.js"
+			],
+			[
+				"securit",
+				"app/service/security/index.js"
+			],
+			[
+				"tagging",
+				"app/components/compound/tagging/actions.js"
+			],
+			[
+				"cookieh",
+				"compiled/util/cookiesHandler.js"
+			],
+			[
+				"footer/inde",
+				"app/components/sections/footer/index.jsx"
+			],
+			[
+				"header/ind",
+				"app/components/sections/header/index.jsx"
+			],
+			[
+				"commonut",
+				"app/service/commonUtil.js"
+			],
+			[
+				"leve",
+				"app/components/compound/navigation/nav-items/level-3-items.jsx"
+			],
+			[
+				"link/ind",
+				"app/components/basic/link/index.jsx"
+			],
+			[
+				"server.j",
+				"app/server.jsx"
+			],
+			[
+				"transla",
+				"server/config/translationConfig.js"
+			],
+			[
+				"targeter",
+				"app/components/compound/targeter/index.jsx"
+			],
+			[
+				"envir",
+				"server/config/environments.js"
+			],
+			[
+				"getse",
+				"compiled/util/getSession.js"
+			],
+			[
+				"inde",
+				"server/index.js"
+			],
+			[
+				"setreq",
+				"server/util/setRequestHeaders.js"
+			],
+			[
+				"server.",
+				"app/server.jsx"
+			],
+			[
+				"rout",
+				"server/config/routes.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"configurestore",
+				"app/store/configureStore.js"
+			],
+			[
+				"config",
+				"webpack/webpack.config.dev-client.js"
+			],
+			[
+				"pre",
+				"app/middlewares/preRenderMiddleware.js"
+			],
+			[
+				"midd",
+				"app/middlewares/promiseMiddleware.js"
+			],
+			[
+				"clie",
+				"app/client.jsx"
+			],
+			[
+				"client",
+				"app/client.jsx"
+			],
+			[
+				"app",
+				"app/App.jsx"
+			],
+			[
+				"components/section/header/ind",
+				"app/components/sections/header/index.jsx"
+			],
+			[
+				"components/section/header",
+				"app/components/sections/header/reducer.js"
+			],
+			[
+				"header/ac",
+				"app/components/sections/header/actions.js"
+			],
+			[
+				"giftcard",
+				"app/pages/pdp/components/gift-card/denomination-selector.jsx"
+			],
+			[
+				"config.dev",
+				"webpack/webpack.config.dev-client.js"
+			],
+			[
+				"webpack",
+				"webpack/webpack.common.config.js"
+			],
+			[
+				"products-list",
+				"app/pages/plp/components/result-panel/products-listing-panel.jsx"
+			],
+			[
+				"product-ti",
+				"app/components/compound/product-tile/index.jsx"
+			],
+			[
+				"product-tile",
+				"app/components/compound/product-tile/index.jsx"
+			],
+			[
+				"product-list",
+				"app/pages/plp/components/result-panel/products-listing-panel.jsx"
+			],
+			[
+				"product-tile/",
+				"app/components/compound/product-tile/index.jsx"
+			],
+			[
+				"product-listing",
+				"app/pages/plp/components/result-panel/products-listing-panel.jsx"
+			],
+			[
+				"product-listing-",
+				"app/pages/plp/components/result-panel/products-listing-panel.jsx"
+			],
+			[
+				"web-med",
+				"app/template/web-medium-category-page/index.jsx"
+			],
+			[
+				"shop/ind",
+				"app/pages/shop/index.jsx"
+			],
+			[
+				"pages/plp/ind",
+				"app/pages/plp/components/result-panel/index.jsx"
+			],
+			[
+				"plp/ind",
+				"app/pages/storeLocator/components/storeMap/index.jsx"
+			],
+			[
+				"vali",
+				"~/Projects/mk-web/app/pages/pdp/components/gift-card/validation.js"
+			],
+			[
+				"validat",
+				"~/Projects/mk-web/app/pages/pdp/components/gift-card/validation.js"
+			],
+			[
+				"comp",
+				"server/controllers/components.js"
+			],
+			[
+				"service-",
+				"server/controllers/service-facade.js"
+			],
+			[
+				"plp/act",
+				"app/pages/plp/actions.js"
+			],
+			[
+				"search/acti",
+				"app/pages/search/actions.js"
+			],
+			[
+				"actions/search.jsx",
+				"app/components/compound/navigation/nav-items/search-mobile.jsx"
+			],
+			[
+				"action/search.jsx",
+				"app/components/compound/navigation/nav-items/search-mobile.jsx"
+			],
+			[
+				"search/redu",
+				"app/components/compound/search/reducer.js"
+			],
+			[
+				"type-ahead-search",
+				"app/pages/search/components/type-ahead-search/index.jsx"
+			],
+			[
+				"search",
+				"app/pages/search/index.jsx"
+			],
+			[
+				"servicef",
+				"server/controllers/service-facade.js"
+			],
+			[
+				"search/reduc",
+				"app/components/compound/search/reducer.js"
+			],
+			[
+				"search/ind",
+				"app/pages/search/index.jsx"
+			],
+			[
+				"facet-sec",
+				"app/pages/plp/components/facet-panel/facet-section.jsx"
+			],
+			[
+				"facetse",
+				"app/pages/plp/components/facet-panel/facet-section.jsx"
+			],
+			[
+				"servicefac",
+				"server/controllers/service-facade.js"
+			],
+			[
+				"ountry",
+				"app/components/compound/country-selector-panel/country-list.jsx"
+			],
+			[
+				"appcon",
+				"server/config/appConfig.js"
+			],
+			[
+				"gets",
+				"server/util/getSession.js"
+			],
+			[
+				"apiagg",
+				"server/controllers/apiaggregator-endpoints.js"
+			],
+			[
+				"npmrc",
+				".npmrc"
+			],
+			[
+				"valida",
+				"app/pages/pdp/components/gift-card/validation.js"
+			],
+			[
+				"validati",
+				"app/pages/pdp/components/gift-card/validation.js"
+			],
+			[
+				"emailfo",
+				"app/pages/pdp/components/gift-card/email-form.jsx"
+			],
+			[
+				"tra",
+				"server/config/translationConfig.js"
+			],
+			[
+				"reducer/id",
+				"app/reducers/index.js"
+			],
+			[
+				"smarting/reduc",
+				"app/components/vendor/smartling/reducer.js"
+			],
+			[
+				"transl",
+				"server/config/translationConfig.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/cm-poc/hybris-cm-poc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
