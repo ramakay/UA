@@ -1,26 +1,4 @@
-{
-  "name": "react-webpack-node",
-  "version": "3.4.1",
-  "description": "Your One-Stop solution for a full-stack app with ES6/ES2015 React.js featuring universal Redux, React Router, React Router Redux Hot reloading, CSS modules, Express 4.x, and multiple ORMs.",
-  "repository": "https://github.com/choonkending/react-webpack-node",
-  "main": "index.js",
-  "scripts": {
-    "sequelize": "node_modules/.bin/sequelize",
-    "lint": "eslint --ext .js,.jsx app server",
-    "lint:fix": "eslint --ext .js,.jsx app server --fix",
-    "clean": "rimraf public && rimraf compiled",
-    "start": "npm run build && cross-env NODE_ENV=production node compiled/server.js",
-    "dev": "cross-env NODE_ENV=development nodemon",
-    "build:dev": "cross-env NODE_ENV=development npm run webpack -- --env.server",
-    "build": "npm run clean && cross-env NODE_ENV=production npm run webpack --profile -- --env.browser && NODE_ENV=production npm run webpack --profile -- --env.server",
-    "webpack": "webpack --colors --display-error-details --config ./webpack/webpack.config.js",
-    "test": "mocha ./app/tests/setup.js --compilers css:./app/tests/compilers/css ./app/**/*-test.js",
-    "test-jest": "jest",
-    "test:watch": "mocha ./app/tests/setup.js --watch --compilers css:./app/tests/compilers/css ./app/**/*-test.js"
-  },
-  "author": "Choon Ken Ding",
-  "license": "MIT",
-  "devDependencies": {
+"devDependencies": {
     "babel-eslint": "^7.2.1",
     "babel-jest": "^20.0.3",
     "babel-register": "^6.24.0",
@@ -103,7 +81,6 @@
     "sequelize": "^3.30.4",
     "sequelize-cli": "^2.7.0",
     "spark-md5": "^3.0.0",
-    "stats-webpack-plugin": "^0.6.1",
     "style-loader": "^0.16.1",
     "url-loader": "^0.5.8",
     "webpack": "^2.3.3",
@@ -111,4 +88,3 @@
     "webpack-hot-middleware": "^2.18.0",
     "webpack-manifest-plugin": "^1.1.0"
   }
-}

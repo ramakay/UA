@@ -11,6 +11,9 @@ import fetchDataForRoute from '../../app/utils/fetchDataForRoute';
  * and pass it into the Router.run function.
  */
 export default function render(req, res) {
+    const context = {
+    splitPoints: [], // Create an empty array
+  };
   const authenticated = req.isAuthenticated();
   const history = createMemoryHistory();
   const store = configureStore({
@@ -56,7 +59,7 @@ export default function render(req, res) {
       fetchDataForRoute(props)
         .then((data) => {
           store.dispatch({ type: types.REQUEST_SUCCESS, data });
-          const html = pageRenderer(store, props);
+          const html = pageRenderer(store, props, context);
           res.status(200).send(html);
         })
         .catch((err) => {

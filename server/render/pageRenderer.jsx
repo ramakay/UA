@@ -11,7 +11,7 @@ const createApp = (store, props) => renderToString(
   </Provider>
 );
 
-const buildPage = ({ componentHTML, initialState, headAssets }) => {
+const buildPage = ({ componentHTML, initialState, headAssets, context}) => {
   return `
 <!doctype html>
 <html>
@@ -25,15 +25,17 @@ const buildPage = ({ componentHTML, initialState, headAssets }) => {
   <body>
     <div id="app">${componentHTML}</div>
     <script>window.__INITIAL_STATE__ = ${JSON.stringify(initialState)}</script>
+      window.splitPoints=${JSON.stringify(context.splitPoints)}; // Send it down to the client
     ${staticAssets.createAppScript()}
   </body>
 </html>`;
 };
 
-export default (store, props) => {
+export default (store, props, context) => {
+  console.log("CONTEXT >>", context);
   const initialState = store.getState();
   const componentHTML = createApp(store, props);
   const headAssets = Helmet.renderStatic();
-  return buildPage({ componentHTML, initialState, headAssets });
+  return buildPage({ componentHTML, initialState, headAssets, context });
 };
 

@@ -56,21 +56,23 @@ describe('RESTful api client', () => {
     it('should have specified method in request', done => {
       request.then(response => {
         expect(response.data.method).toEqual(method);
-        return done();
+         done();
+      }).catch(function (err) {
+        console.log("Promise Rejected", err, request);
       });
     });
 
     it('should contain specified query params in request', done => {
       request.then(response => {
         expect(response.data.query).toEqual({ id: '123' });
-        return done();
+         done();
       });
     });
 
     it('should contain data send with request in request', done => {
       request.then(response => {
         expect(response.data.body).toEqual({ name: 'kending' });
-        return done();
+         done();
       });
     });
   });

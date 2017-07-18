@@ -1,12 +1,13 @@
-import React from 'react';
-import { render } from 'react-dom';
-import { Provider } from 'react-redux';
-import { Router, browserHistory } from 'react-router';
-import { syncHistoryWithStore } from 'react-router-redux';
-import createRoutes from './routes';
-import * as types from './types';
-import configureStore from './store/configureStore';
-import fetchDataForRoute from './utils/fetchDataForRoute';
+import React from "react";
+import { render } from "react-dom";
+import { Provider } from "react-redux";
+import { Router, browserHistory } from "react-router";
+import { syncHistoryWithStore } from "react-router-redux";
+import createRoutes from "./routes";
+import * as types from "./types";
+import configureStore from "./store/configureStore";
+import fetchDataForRoute from "./utils/fetchDataForRoute";
+import * as Bundles from "../utils/Bundles"; // Replaced by AsyncBundles by webpack at build-time
 
 // Grab the state from a global injected into
 // server-generated HTML
@@ -32,18 +33,22 @@ function onUpdate() {
   }
 
   store.dispatch({ type: types.CREATE_REQUEST });
-  fetchDataForRoute(this.state)
-    .then((data) => {
-      return store.dispatch({ type: types.REQUEST_SUCCESS, data });
-    });
+  fetchDataForRoute(this.state).then(data => {
+    return store.dispatch({ type: types.REQUEST_SUCCESS, data });
+  });
 }
-
 
 // Router converts <Route> element hierarchy to a route config:
 // Read more https://github.com/rackt/react-router/blob/latest/docs/Glossary.md#routeconfig
-render(
-  <Provider store={store}>
-    <Router history={history} onUpdate={onUpdate}>
-      {routes}
-    </Router>
-  </Provider>, document.getElementById('app'));
+const splitPoints = window.splitPoints || [];
+Promise.all(splitPoints.map(chunk => Bundles[chunk].loadComponent())) // This is the important part
+  .then(() => {
+    render(
+      <Provider store={store}>
+        <Router history={history} onUpdate={onUpdate}>
+          {routes}
+        </Router>
+      </Provider>,
+      document.getElementById("app")
+    );
+  });

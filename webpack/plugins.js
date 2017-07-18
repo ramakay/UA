@@ -1,6 +1,7 @@
 const webpack = require('webpack');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const ManifestPlugin = require('webpack-manifest-plugin');
+const StatsPlugin = require('stats-webpack-plugin');
 
 module.exports = ({ production = false, browser = false } = {}) => {
   const bannerOptions = { raw: true, banner: 'require("source-map-support").install();' };
@@ -37,6 +38,10 @@ module.exports = ({ production = false, browser = false } = {}) => {
       new ExtractTextPlugin({
         filename: '[contenthash].css',
         allChunks: true
+      }),
+      new StatsPlugin('stats.json', {
+        chunkModules: true,
+        exclude: [/node_modules[\\\/]react/]
       }),
       new webpack.optimize.UglifyJsPlugin({ compress }),
       new ManifestPlugin({

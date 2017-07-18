@@ -46,7 +46,7 @@ module.exports = (env = {}) => {
     output: {
       path: PATHS.assets,
       filename: '[chunkhash].js',
-      chunkFilename: '[name].[chunkhash:6].js', // for code splitting. will work without but useful to set
+      chunkFilename: '[name].js', // for code splitting. will work without but useful to set
       publicPath: PATHS.public
     },
     module: { rules: rules({ production: true, browser: true }) },
